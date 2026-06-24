@@ -13,10 +13,10 @@ from SalirTicketEC02 import salir_ticket
 
 from ValidarTicketEC02 import validar_ticket_entero
 
-import sys
-import os
-import random
-import subprocess
+#import sys
+# import os
+# import random
+# import subprocess
 
 """
 import sys, os, random, subprocess
