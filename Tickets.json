@@ -1,0 +1,65 @@
+[
+    {
+        "numero_ticket": 999,
+        "nombre": "prueba",
+        "sector": "grip",
+        "asunto": "BGP unreachable",
+        "problema": "la sesion BGP con le peer 209.217.24.13 se encuntra unreachable"
+    },
+    {
+        "numero_ticket": 4902,
+        "nombre": "Eduardo",
+        "sector": "Desarrollo",
+        "asunto": "Python script failed",
+        "problema": "Python program Tickets failed in Pantallas module"
+    },
+    {
+        "numero_ticket": 4985,
+        "nombre": "Gabriel",
+        "sector": "MRSE",
+        "asunto": "VMware workstation failed",
+        "problema": "vmware host failed"
+    },
+    {
+        "numero_ticket": 6694,
+        "nombre": "Marcos",
+        "sector": "ORSIMBA",
+        "asunto": "falla de Gestion SNMNP",
+        "problema": "SNMP Failed oid"
+    },
+    {
+        "numero_ticket": 1701,
+        "nombre": "Marc",
+        "sector": "Gerencia",
+        "asunto": "finnancila problem",
+        "problema": "problema financiero"
+    },
+    {
+        "numero_ticket": 1678,
+        "nombre": "Carlos",
+        "sector": "Presidencia",
+        "asunto": "Estatuto Issue",
+        "problema": "Error en la definicion del estatuto"
+    },
+    {
+        "numero_ticket": 6536,
+        "nombre": "Joe",
+        "sector": "ADSL",
+        "asunto": "pin block failed",
+        "problema": "falla de pin block en DSLAM RPB07"
+    },
+    {
+        "numero_ticket": 2840,
+        "nombre": "Jamil",
+        "sector": "Preventa",
+        "asunto": "RFP dead time",
+        "problema": "Quedan 24 horas para la entrega de la RFP"
+    },
+    {
+        "numero_ticket": 3472,
+        "nombre": "Aurelio",
+        "sector": "Transmision",
+        "asunto": "Falla DWDM Cuyo",
+        "problema": "Loss error bit in dwdm Cuyo"
+    }
+]
