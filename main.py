@@ -31,7 +31,7 @@ largo_min : int = 12
 largo_caracteres_min = 2
 largo_numeros_min = 3
 largo_letras_mayusculas_min = 2
-largo_letras_minusculas_min = 5
+# largo_letras_minusculas_min = 5
 
 lista_acumulador_caracteres : list = []
 lista_acumulador_numeros : list = []
