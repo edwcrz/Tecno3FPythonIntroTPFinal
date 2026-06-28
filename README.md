@@ -1,8 +1,8 @@
-
-    'Centro de Estudios' : 'Tecno 3F'
-    'Curso' : 'Introducción al Python'
+{
+    'Centro de Estudios' : 'Tecno 3F',
+    'Curso' : 'Introducción al Python',
     'Profesor' : 'Gabriel Roman'
-
+}
 El programa se encuentra en el subtree PaswordGenerator de repositorio Tecno3FPythonIntroTPFinal,  
 lo trabajo como un repositorio independiente con su correspondiente directorio local,  
 y luego los consolido en el repositorio de entrega Tecno3FPythonIntroTPFinal,  
