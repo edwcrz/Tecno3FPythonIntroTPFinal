@@ -69,6 +69,7 @@ while salir == False:
         print (f"la lista de tickets ingresada hasta el momento es {ticket_list}")
     elif ingreso_pantalla_inicial == str(4) and salir == False:
         salir = salir_ticket ()
+        print ("Saliendo del programa ...")
     else:
         print("ingreso un código no permitido")
     

@@ -1,9 +1,9 @@
 import json
 import sys
-from subprocess import run
 from os.path import isfile
 from os.path import abspath
-from os import getcwd
+# from subprocess import run
+# from os import getcwd
 
 code = "utf-8"
 
