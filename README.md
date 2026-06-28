@@ -23,7 +23,7 @@ no debe permitir que se le ingrese un numero separado por coma, por punto, una l
 
 se genera una lista de digitos elegidos aleatotiamente respescto de los digitos disponiebles por cada uno de los 4 criterios,  
 luego lo agrupo las 4 listas correspondientes a los elegidos,  
-luego los vuelvo a elegir aleatoriamente de dicha lista para generar un orden aleatorio y que no queden lso criterios agrupados,  
+luego los vuelvo a elegir aleatoriamente de dicha lista para generar un orden aleatorio y que no queden los criterios agrupados,  
 
 al final informa el password generado aleatoriamente,  
 
